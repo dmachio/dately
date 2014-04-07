@@ -1,4 +1,2 @@
-dately
-======
-
-A super cool dating app
+# dately
+### a Sails application
