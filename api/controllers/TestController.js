@@ -18,9 +18,10 @@
 module.exports = {
     
   index: function(req, res){
-  	Fullname.populateFullnames(function(err){
+  	Fullname.populate(function(err){
   		if(err) throw err;
   		console.log('success');
+      res.end();
   	})
   },
 
