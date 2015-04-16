@@ -1,6 +1,6 @@
 {
     "name": "dately",
-    "private": true,
+    "private": false,
     "version": "0.0.0",
     "description": "a Sails application",
     "dependencies": {
