@@ -12,6 +12,7 @@
  *
  * More information on using Grunt to work with static assets:
  * http://gruntjs.com/configuring-tasks
+ * @author Daniel Aineah
  */
 
 module.exports = function (grunt) {
